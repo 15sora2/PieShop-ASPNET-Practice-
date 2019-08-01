@@ -1,0 +1,8 @@
+﻿****Creating a new application****
+-->wwwroot folder: how does it work?
+	-->www.sitename.com\image\image1.jpg
+	-->wwwroot\images\image1.jpg
+		-->Imagine there's an images folder in wwwroot
+		-->When we put an image into the page, the compiler will
+			map wwwroot to the website root (in this case it's sitename.com)
+			to create the proper path to the image.

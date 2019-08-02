@@ -1,0 +1,12 @@
+****Exploring the project structure****
+
+****Site Configuration****
+--> Program.cs file
+	-->In the main function, a host server is being set up that creates a server
+		and a request processing pipeline.
+-->Startup.cs
+	-->Defines the request pipeline
+	-->configures all of the processes that will be needed throughout the application
+-->IS: injection system
+	-->constructor injection
+--> Services are objects that have certaian functionality

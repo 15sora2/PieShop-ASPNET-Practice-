@@ -1,0 +1,15 @@
+﻿****Hello MVC****
+-->Model-View-Controller
+	-->Architectural pattern
+	--> Seperation of concerns
+	-->Promotes testability and maintainable
+-->A requests is sent to the controller
+--> The controller updates the model or retrieve data from the model
+--> The contoller will select which View is needed
+--> The View retrieves data from the Model and displays it to the user.
+
+****Creating the Model and the Repository****
+
+****Demo: Creating the Domain and Repository****
+
+****Creating the Controller****

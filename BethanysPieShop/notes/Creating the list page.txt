@@ -9,7 +9,15 @@
 --> The View retrieves data from the Model and displays it to the user.
 
 ****Creating the Model and the Repository****
+--> The Model
+	-->The group of classes that make up the domain data
+	--> Logic to manage data
+	-->Simple API
+	-->Hides details of managing the data.
+-->The "repository class" allows our code to usw objects 
+	without knowing how they operate
 
 ****Demo: Creating the Domain and Repository****
+
 
 ****Creating the Controller****
